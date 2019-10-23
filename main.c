@@ -93,3 +93,4 @@ Data acquisisciData(){
     d.dataInGiorni = d.giorno + d.mese * GIORNI_MESE + d.anno * GIORNI_ANNO;
     return d;
 }
+/*PROVA MODIFICA COMITGITHUB*/
